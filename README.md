@@ -1,3 +1,14 @@
+> **CultureReset fork of [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad).** Design physical products with AI.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/earthtojake/text-to-cad).
+>
+> The upstream README follows unchanged.
+
+---
+
 <div align="center">
 
 <img src="apps/docs/public/brand/logo-texttocad-animated.svg" alt="text-to-cad" width="800">
